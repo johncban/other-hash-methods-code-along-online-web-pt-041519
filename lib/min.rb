@@ -15,5 +15,5 @@ def get_the_min(groceries)
   letters.min
 
   alphabetical_order = {c: 100, d: 1}
-  alphabetical_order.flatten
+  alphabetical_order.flatten.min
 end
